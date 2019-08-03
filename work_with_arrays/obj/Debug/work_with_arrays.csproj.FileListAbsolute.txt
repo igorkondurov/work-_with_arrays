@@ -1,0 +1,12 @@
+C:\Users\днс\source\repos\work_with_arrays\work_with_arrays\bin\Debug\work_with_arrays.exe.config
+C:\Users\днс\source\repos\work_with_arrays\work_with_arrays\bin\Debug\work_with_arrays.exe
+C:\Users\днс\source\repos\work_with_arrays\work_with_arrays\bin\Debug\work_with_arrays.pdb
+C:\Users\днс\source\repos\work_with_arrays\work_with_arrays\obj\Debug\work_with_arrays.csprojAssemblyReference.cache
+C:\Users\днс\source\repos\work_with_arrays\work_with_arrays\obj\Debug\work_with_arrays.Form1.resources
+C:\Users\днс\source\repos\work_with_arrays\work_with_arrays\obj\Debug\work_with_arrays.Properties.Resources.resources
+C:\Users\днс\source\repos\work_with_arrays\work_with_arrays\obj\Debug\work_with_arrays.csproj.GenerateResource.cache
+C:\Users\днс\source\repos\work_with_arrays\work_with_arrays\obj\Debug\work_with_arrays.csproj.CoreCompileInputs.cache
+C:\Users\днс\source\repos\work_with_arrays\work_with_arrays\obj\Debug\work_with_arrays.exe
+C:\Users\днс\source\repos\work_with_arrays\work_with_arrays\obj\Debug\work_with_arrays.pdb
+C:\Users\днс\source\repos\work_with_arrays\work_with_arrays\obj\Debug\work_with_arrays.onedimensional_array.resources
+C:\Users\днс\source\repos\work_with_arrays\work_with_arrays\obj\Debug\work_with_arrays.twodimensional_array.resources
